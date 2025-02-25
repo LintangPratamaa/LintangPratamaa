@@ -6,7 +6,6 @@
 
 ### 🛠 Tech Stack:
 - **Languages:** Kotlin, C#, SQL
-- **Databases:** MySQL
 - **Tools:** Android Studio, Visual Studio
 - **Version Control:** Git & GitHub
 
