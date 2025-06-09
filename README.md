@@ -1,13 +1,11 @@
 ## Hi there, I'm Lintang Pratama! 👋
 
-🚀 **Android Developer in Progress** | Learning Kotlin & Jetpack Compose 📱  
-💻 Working with C# & MySQL too 💡  
+🚀 **Android Developer in Progress** 
 🌱 Always learning & open to collaboration!  
 
 ### 🛠 Tech Stack:
-- **Languages:** Kotlin, C#, SQL
-- **Tools:** Android Studio, Visual Studio
-- **Version Control:** Git & GitHub
+- **Languages:** Kotlin
+- **Tools:** Android Studio
 
 ### 📫 Connect with Me:
 - 📍 Kudus, Jawa Tengah
